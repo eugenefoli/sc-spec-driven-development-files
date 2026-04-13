@@ -9,7 +9,7 @@ The simplest way to take this course is to start at Lesson 4 and follow along wi
 Each `Lesson_N` folder contains a snapshot of the AgentClinic project as it should look **at the start** of that lesson. You don't need to copy these folders each time -- they're here so you can jump into any lesson without having completed the previous ones. If you want to start fresh at a specific lesson, just copy that folder into your own working directory:
 
 ```bash
-cp -r Lesson_5/ my-agentclinic/
+cp -r Lesson_05/ my-agentclinic/
 cd my-agentclinic
 npm install
 ```
@@ -18,12 +18,12 @@ npm install
 
 | Folder | Lesson | What you're starting with |
 |--------|--------|--------------------------|
-| Lesson_4 | Creating the Constitution | Empty project scaffold (package.json, tsconfig.json, src/index.ts) |
-| Lesson_5 | Feature Specification | Constitution in place (specs/mission.md, tech-stack.md, roadmap.md) |
-| Lesson_6 | Feature Implementation | Constitution + Phase 1 feature spec (plan.md, requirements.md, validation.md) |
-| Lesson_7 | Feature Validation | Phase 1 "Hello Hono" fully implemented with layout components |
-| Lesson_8 | Project Replanning | Phase 1 merged to main, ready for replanning |
-| Lesson_9 | 2nd Feature Phase | Replanning complete (testing, responsive design, changelog skill added) |
+| Lesson_04 | Creating the Constitution | Empty project scaffold (package.json, tsconfig.json, src/index.ts) |
+| Lesson_05 | Feature Specification | Constitution in place (specs/mission.md, tech-stack.md, roadmap.md) |
+| Lesson_06 | Feature Implementation | Constitution + Phase 1 feature spec (plan.md, requirements.md, validation.md) |
+| Lesson_07 | Feature Validation | Phase 1 "Hello Hono" fully implemented with layout components |
+| Lesson_08 | Project Replanning | Phase 1 merged to main, ready for replanning |
+| Lesson_09 | 2nd Feature Phase | Replanning complete (testing, responsive design, changelog skill added) |
 | Lesson_10 | MVP | Phase 2 "Agents & Ailments" merged, full app ready for MVP sprint |
 | Lesson_11 | Legacy Support | *Coming soon* |
 | Lesson_12 | Build Your Own Workflow | *Coming soon* |
